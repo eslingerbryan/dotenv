@@ -3,7 +3,7 @@ eslinger.bryan@gmail.com | 347-453-9174 | Oakland, CA 94603
 
 ## Technical Skills
 ### Specialty Areas
-Full-stack web technologies: Python, Ruby, Elixir, Javascript, HTML, CSS; system architecture; database design: MySQL, PostgreSQL, MongoDB; RESTful APIs, GrpahQLd Tools
+Full-stack web technologies: Python, Ruby, Elixir, Javascript, HTML, CSS; system architecture; database design: MySQL, PostgreSQL, MongoDB; RESTful APIs, GraphQL
 
 ### Tools and Frameworks
 Rails, Django, Flask, Celery, Phoenix, React, Apollo Client, Numpy, Scipy, Drupal, Wordpress, BackboneJS, jQuery, d3, Bower, Grunt, SASS, LESS, Bootstrap, Git, GCP, AWS, Heroku Tool Kit, Adobe Creative Suite
