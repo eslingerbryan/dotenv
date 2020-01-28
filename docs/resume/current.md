@@ -41,7 +41,7 @@ Sole proprietor of web consultancy. Projects ranged from custom Wordpress themes
 Administered client web projects for transportation planning firm, created web applications for internal and external use, created custom templates, themes and plugins for Nelson\Nygaard and client projects, performed database maintenance and administration tasks, and maintained the firm website.
 
 #### Proposal/Marketing Coordinator, NY/DC/ATL, Oct 2013 – Apr 2014
-Prepared and managed proposals and bid packages for publicly and privately funded transportation planning projects ranging in contract value from $50,000 to $500,000 for the firm's New York, Washington, DC, andAtlanta offices. Administered company database to track on-call contract opportunities and project leads. Created marketing material such as project profiles.
+Prepared and managed proposals and bid packages for publicly and privately funded transportation planning projects ranging in contract value from $50,000 to $500,000 for the firm's New York, Washington, DC, and Atlanta offices. Administered company database to track on-call contract opportunities and project leads. Created marketing material such as project profiles.
 
 ### Moed de Armas & Shannon Architects (now MdeAS Architects), New York, NY
 #### Director of Business Development, Mar 2010 – Sept 2013
