@@ -34,7 +34,7 @@ Software engineer concentrating on back end web systems. This included developme
 
 ### Bryan Eslinger Web Design + Development, New York, NY
 #### Owner / Developer, Feb 2012 - May 2015
-Sole proprietor of web consultancy. Projects ranged from custom Wordpress themes and plugins to a ground-up web application in Ruby on Rails. Clients included non-profits, small businesses, universities and defense contractors.w York, NY, Oct 2013 – Jul 201
+Sole proprietor of web consultancy. Projects ranged from custom Wordpress themes and plugins to a ground-up web application in Ruby on Rails. Clients included non-profits, small businesses, universities and defense contractors.
 
 ### Nelson\Nygaard Consultaing Associates, New York, NY
 #### Creative Services Specialist, Apr 2014 - Jun 2014
