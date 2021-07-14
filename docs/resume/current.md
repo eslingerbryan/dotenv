@@ -10,7 +10,7 @@ Rails, Django, Flask, Celery, Phoenix, React, Apollo Client, Numpy, Scipy, Drupa
 
 ## Professional Experience 
 ### LiveRamp, Inc, San Francisco, CA
-#### Staff Software Engineer, Dec 2019 - Apr 2020
+#### Staff Software Engineer, Dec 2019 - Apr 2021
 Staff software engineer for the Lines of Business platoon, responsible for all user/customer-facing systems both back-end and front-end. The Lines of Business Platoon comprises three product (scrum) squads: Onboarding (LiveRamp’s cornerstone product), Data Networks (LiveRamp’s newest General Availability product vertical, growing year-over-year in the thousands of percent), and Customer Profiles (LiveRamp’s newest product line, all in limited beta releases). Responsible for coordinating with the three squad tech leads and product owners to ensure squad-level work is consistent with platoon-level goals as well as technical roadmaps and system designs. Serves as an in-house resource for all engineers on the platoon and particularly enjoys working with our New Grad program to help mentor junior engineers.
 
 #### Senior Software Engineer, Feb 2019 - Nov 2019
