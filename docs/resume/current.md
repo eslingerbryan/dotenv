@@ -1,5 +1,5 @@
 # Bryan Eslinger, Staff Software Engineer | Tech Lead
-eslinger.bryan@gmail.com | 347-453-9174 | Oakland, CA 94603
+bryan.eslinger@protonmail.com | 347-453-9174 | Hayward, CA 94544
 
 ## Technical Skills
 ### Specialty Areas
