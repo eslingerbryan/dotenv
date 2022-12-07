@@ -9,6 +9,10 @@ Full-stack web technologies: Python, Ruby, Elixir, Javascript, HTML, CSS; system
 Rails, Django, Flask, Celery, Phoenix, React, Apollo Client, Numpy, Scipy, Drupal, Wordpress, BackboneJS, jQuery, d3, Bower, Grunt, SASS, LESS, Bootstrap, Git, GCP, AWS, Heroku Tool Kit, Adobe Creative Suite
 
 ## Professional Experience 
+### MURAL, San Francisco, CA (remote)
+#### Staff Software Engineer, Jan 2022 - Oct 2022
+Member of the Reporting & Analytics team, responsible for customer-facing features bringing visibility to enterprise customers' usage patterns within the MURAL platform. This included a json-over-http api as well as an in-app CSV download feature.
+
 ### LiveRamp, Inc, San Francisco, CA
 #### Staff Software Engineer, Dec 2019 - Apr 2021
 Staff software engineer for the Lines of Business platoon, responsible for all user/customer-facing systems both back-end and front-end. The Lines of Business Platoon comprises three product (scrum) squads: Onboarding (LiveRamp’s cornerstone product), Data Networks (LiveRamp’s newest General Availability product vertical, growing year-over-year in the thousands of percent), and Customer Profiles (LiveRamp’s newest product line, all in limited beta releases). Responsible for coordinating with the three squad tech leads and product owners to ensure squad-level work is consistent with platoon-level goals as well as technical roadmaps and system designs. Serves as an in-house resource for all engineers on the platoon and particularly enjoys working with our New Grad program to help mentor junior engineers.
