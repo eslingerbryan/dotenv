@@ -9,6 +9,13 @@ Full-stack web technologies: Python, Ruby, Elixir, Javascript, HTML, CSS; system
 Rails, Django, Flask, Celery, Phoenix, React, Apollo Client, Numpy, Scipy, Drupal, Wordpress, BackboneJS, jQuery, d3, Bower, Grunt, SASS, LESS, Bootstrap, Git, GCP, AWS, Heroku Tool Kit, Adobe Creative Suite
 
 ## Professional Experience 
+
+### PG & E (via Epik Solutions), San Ramon, CA
+#### Staff Software Engineer / Architect, Mar 2023 - Mar 2024
+Embedded contractor on the Quality Management Continuous Improvement team, responsible for internal tooling integral for modernizing PG&E's quality management processes.
+
+Designed and bootstrapped greenfield data-intensive application to be used by QM staff in both office and field settings. Chose technical stack and implemented 0-to-1 application skeleton. Set technical standards and guidelines for a team of 5 engineers.  
+
 ### MURAL, San Francisco, CA (remote)
 #### Staff Software Engineer, Jan 2022 - Oct 2022
 Member of the Reporting & Analytics team, responsible for customer-facing features bringing visibility to enterprise customers' usage patterns within the MURAL platform. This included a json-over-http api as well as an in-app CSV download feature.
