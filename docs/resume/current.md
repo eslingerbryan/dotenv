@@ -3,16 +3,16 @@ bryan.eslinger@protonmail.com | 347-453-9174 | Hayward, CA 94541
 
 ## Technical Skills
 ### Specialty Areas
-Full-stack web technologies: Python, Ruby, Elixir, Javascript, HTML, CSS; system architecture; database design: MySQL, PostgreSQL, MongoDB; RESTful APIs, GraphQL
+Full-stack web technologies: Python, Ruby, Elixir, Javascript/NodeJS, Typescript, HTML, CSS; system architecture; database design: MySQL, PostgreSQL, MongoDB; RESTful APIs, GraphQL
 
 ### Tools and Frameworks
-Rails, Django, Flask, Celery, Phoenix, React, Apollo Client, Numpy, Scipy, Drupal, Wordpress, BackboneJS, jQuery, d3, Bower, Grunt, SASS, LESS, Bootstrap, Git, GCP, AWS, Heroku Tool Kit, Adobe Creative Suite
+Rails, Django, Flask, ExpressJS, Celery, Phoenix, React, Apollo Client, Numpy, Scipy, BackboneJS, jQuery, d3, SASS, LESS, Bootstrap, Git, GCP, AWS, Heroku Tool Kit, Adobe Creative Suite
 
 ## Professional Experience 
 
 ### PG & E (via Epik Solutions), San Ramon, CA
 #### Staff Software Engineer / Architect, Mar 2023 - Mar 2024
-Embedded contractor on the Quality Management Continuous Improvement team, responsible for internal tooling integral for modernizing PG&E's quality management processes.
+Embedded contractor on the Quality Management Continuous Improvement team, responsible for internal tooling integral to modernizing PG&E's quality management processes.
 
 Designed and bootstrapped greenfield data-intensive application to be used by QM staff in both office and field settings. Chose technical stack and implemented 0-to-1 application skeleton. Set technical standards and guidelines for a team of 5 engineers.  
 
